@@ -1,0 +1,10 @@
+[
+  {
+    "package": "kernscr",
+    "oncran": true
+  },
+  {
+    "package": "ludic",
+    "oncran": true
+  }
+]
