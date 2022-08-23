@@ -13,3 +13,8 @@
 	url = https://github.com/borishejblum/ludic
 	shallow = true
 	registered = true
+[submodule "dearseq"]
+	path = dearseq
+	url = https://github.com/borishejblum/dearseq
+	shallow = true
+	registered = true

@@ -6,5 +6,8 @@
   {
     "package": "ludic",
     "oncran": true
+  },
+  {
+    "package": "dearseq"
   }
 ]
