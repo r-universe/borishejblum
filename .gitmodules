@@ -8,6 +8,11 @@
 	url = https://github.com/borishejblum/kernscr
 	shallow = true
 	registered = true
+[submodule "ludic"]
+	path = ludic
+	url = https://github.com/borishejblum/ludic
+	shallow = true
+	registered = true
 [submodule "dearseq"]
 	path = dearseq
 	url = https://github.com/borishejblum/dearseq

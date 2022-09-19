@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "ludic",
+    "oncran": true
+  },
+  {
     "package": "dearseq"
   }
 ]
