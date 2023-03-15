@@ -1,13 +1,13 @@
 [
   {
-    "package": "ludic",
-    "oncran": true
+    "package": "dearseq"
   },
   {
     "package": "kernscr",
     "oncran": true
   },
   {
-    "package": "dearseq"
+    "package": "ludic",
+    "oncran": true
   }
 ]
