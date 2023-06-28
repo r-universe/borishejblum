@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dearseq"]
 	path = dearseq
 	url = https://github.com/borishejblum/dearseq
-	shallow = true
-	registered = true
 [submodule "kernscr"]
 	path = kernscr
 	url = https://github.com/borishejblum/kernscr
-	shallow = true
-	registered = true
 [submodule "ludic"]
 	path = ludic
 	url = https://github.com/borishejblum/ludic
-	shallow = true
-	registered = true
