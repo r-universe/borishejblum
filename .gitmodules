@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "dearseq"]
-	path = dearseq
-	url = https://github.com/borishejblum/dearseq
 [submodule "kernscr"]
 	path = kernscr
 	url = https://github.com/borishejblum/kernscr
